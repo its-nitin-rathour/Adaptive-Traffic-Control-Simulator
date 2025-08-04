@@ -1,6 +1,6 @@
-# AutoSignalX 🚦 – Intelligent Traffic Signal Simulator
+# Adaptive Traffic Control Simulator
 
-AutoSignalX is a real-time, multi-lane traffic signal simulator that models a 4-way intersection using Python and Pygame. Designed for educational and research purposes, it demonstrates concepts like multithreading, dynamic signal timing, vehicle behavior simulation, and object-oriented programming in a distributed control environment.
+This is a real-time, multi-lane traffic signal simulator that models a 4-way intersection using Python and Pygame. Designed for educational and research purposes, it demonstrates concepts like multithreading, dynamic signal timing, vehicle behavior simulation, and object-oriented programming in a distributed control environment.
 
 ---
 
@@ -30,7 +30,7 @@ AutoSignalX is a real-time, multi-lane traffic signal simulator that models a 4-
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AutoSignalX.git
+git clone https://github.com/your-username/Adaptive-Traffic-Control-Simulator.git
 cd AutoSignalX
 ```
 
@@ -101,9 +101,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👩‍💻 Author
 
-**Mansi Gupta**  
-*M.Tech – Software Engineering @ Delhi Technological University*  
-GitHub: [Mansi2202](https://github.com/Mansi2202)  
-Project: [AutoSignalX](https://github.com/Mansi2202/AutoSignalX)
+**Nitin Rathour**  
+*M.Tech – Data Science @ Delhi Technological University*  
+GitHub: [Nitin](https://github.com/its-nitin-rathour)  
+Project: [Link](https://github.com/its-nitin-rathour/Adaptive-Traffic-Control-Simulator)
 
 ---
